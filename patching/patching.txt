@@ -1,0 +1,15 @@
+rpm -qa (query all packeges)
+yum list installed  (all the packeges with yum command)
+cat /etc/os-realese
+yum check-update
+yum repolist(you want to all repositorys)
+ubuntu2204 config --default-user root(incase in ubuntu not go to root user that time we need to use this command)
+
+
+Patches updates
+------------------
+criticle updates
+security updates
+bugs fixs
+Enhancements
+OS updates
